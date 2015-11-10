@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = "angular-gettext-rails"
-  spec.version       = "2.1.2"
+  spec.version       = "2.1.2.1"
   spec.authors       = ["Toru Nayuki"]
   spec.email         = ["tnayuki@icloud.com"]
   spec.summary       = "The Angular Gettext JavaScript module ready to play with Rails."

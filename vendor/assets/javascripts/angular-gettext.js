@@ -1,5 +1,5 @@
 /**
- * @license angular-gettext v2.1.0
+ * @license angular-gettext v2.1.2
  * (c) 2013-2015 Ruben Vermeersch
  * License: MIT
  */
