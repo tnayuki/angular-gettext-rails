@@ -1,3 +1,8 @@
+/**
+ * @license angular-gettext v2.1.0
+ * (c) 2013-2015 Ruben Vermeersch
+ * License: MIT
+ */
 angular.module('gettext', []);
 
 angular.module('gettext').constant('gettext', function (str) {
